@@ -1,0 +1,3 @@
+CC = gcc
+
+.phony: all
